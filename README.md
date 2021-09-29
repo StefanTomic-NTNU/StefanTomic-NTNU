@@ -43,8 +43,23 @@ My name is Stefan Tomić, and I currently study Computer Science at NTNU. I'm ma
 
 - - -
 
+
 <div style="width: 100%; display: flex">
   <a>
     <img align="center" width: 100% src="https://github-readme-streak-stats.herokuapp.com/?user=StefanTomic-NTNU&show_icons=true&theme=dark&layout=compact" />
   </a>
 </div>
+
+
+### Some cool stuff I've made
+
+- - -
+Implemented the A* algorithm from scratch
+ ![A* Animation](https://user-images.githubusercontent.com/56115181/135229650-81b899cb-db6b-489a-bd17-6cea845116c3.gif)
+ 
+
+Created a website with the functionality of an online marketplace (Group project)
+<img width="578" alt="bilde" src="https://user-images.githubusercontent.com/56115181/135231302-928c2a40-b0cb-4bdd-aa0d-6bcba041595c.PNG">
+
+
+### Check out my public repos for more
