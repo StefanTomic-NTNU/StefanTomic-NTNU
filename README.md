@@ -1,6 +1,6 @@
 ### Hi there 👋
 - - -
-My name is Stefan Tomić, and I currently study Computer Science at NTNU. I'm majoring in the field of AI, and am mainly on the lookout for projects involving Machine Learning.
+My name is Stefan Tomić. I currently study Computer Science at NTNU, where I'm majoring in the field of AI. I'm always on the lookut for fun new projects and opportunities to learn. If you are looking to collaborate on something, don't hesitate to get in touch!
 
 
 ### 👨‍💻 Techologies
