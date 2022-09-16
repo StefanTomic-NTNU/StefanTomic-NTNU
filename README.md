@@ -3,7 +3,7 @@
 My name is Stefan Tomić. I currently study Computer Science at NTNU, where I'm majoring in the field of AI. I'm always on the lookut for fun new projects and opportunities to learn. So if you are looking to collaborate on something, don't hesitate to get in touch!
 
 
-### 👨‍💻 Techologies
+### 👨‍💻 Tech
 - - -
 #### Languages and corresponding libraries/frameworks
 <code><img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
